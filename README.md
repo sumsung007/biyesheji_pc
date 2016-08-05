@@ -1,5 +1,5 @@
 # biyesheji_pc
-the  project of bachelor graduate
+
 
 this is a the sun follow system that the function like the plant of  turnsole,and we can use this demo to advance productiveness of  sun-power system
 
